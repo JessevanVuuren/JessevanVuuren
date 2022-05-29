@@ -11,6 +11,8 @@
 
 
 <br>
-
+<div align="center">
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jessevanvuuren&show_icons=true&locale=en&layout=compact" alt="jessevanvuuren" /></p>
+  
+  </div>
