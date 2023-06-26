@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript, PHP**
 - 🖥️ Interested in back-end development
-- 🎓 currently studying Informatica in Leiden
+- 🎓 Currently studying Informatica in Leiden
 - 🌷 Living in the Netherlands
 - 👨‍🏫 Always curious to learn more
 
@@ -34,7 +34,7 @@ One of my proudest achievements is the creation of the [Movie Recommender](https
 
 
 ### BuddyBot -> [repo](https://github.com/JessevanVuuren/BuddyBot)
-Buddy bot is an app I’ve created that helps you remember birthdays of your friends and family. It’s a simple app that sends you a notification in a self-determined number of days prior as heads up. On the day itself you get a notification that tells you that todays are their birthday. 
+Buddy bot is an app I’ve created that helps you remember birthdays of your friends and family. It’s a simple app that sends you a notification in a self-determined number of days prior as heads up. On the day itself you get a notification that tells you that today is their birthday. 
 
 All the data is stored on your phone, so you won’t need an internet connection and you don’t have to worry about your data getting lost or stolen.
 
