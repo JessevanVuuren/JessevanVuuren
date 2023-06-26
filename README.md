@@ -24,7 +24,7 @@ If you're interested in collaborating on a project or just want to chat about pr
 
 Recently I’ve taken an interest in Artificial Intelligence (AI) and Neural Networks. The fact that computers can learn and outperform humans fascinates me. At this moment now my knowledge is limited, but in de oncoming months I’m very motivated to learn the depts and limits of AI.
 
-The main way om going to pull myself through this hard subject is by reading the book [Neural Networks from Scratch](https://nnfs.io), this will lay the foundation of my journey.
+The way im going to pull myself through this hard subject is by reading the book [Neural Networks from Scratch](https://nnfs.io), this will lay the foundation of my journey.
 
 
 ## My projects
@@ -32,10 +32,19 @@ The main way om going to pull myself through this hard subject is by reading the
 ### Movie Recommender -> [repo](https://github.com/JessevanVuuren/movieRecommender)
 One of my proudest achievements is the creation of the [Movie Recommender](https://play.google.com/store/apps/details?id=com.jesse.movieRecommender) app, which has gained over 200,000 downloads on the Play Store. I worked hard to create an app that would provide users with personalized movie recommendations based on their viewing history, and I'm thrilled that so many people have found it useful.
 
+
 ### BuddyBot -> [repo](https://github.com/JessevanVuuren/BuddyBot)
 Buddy bot is an app I’ve created that helps you remember birthdays of your friends and family. It’s a simple app that sends you a notification in a self-determined number of days prior as heads up. On the day itself you get a notification that tells you that todays are their birthday. 
 
 All the data is stored on your phone, so you won’t need an internet connection and you don’t have to worry about your data getting lost or stolen.
+
+
+### Termial Jump -> [repo](https://github.com/JessevanVuuren/TerminalJump)
+Terminal Jump is a Mario inspired game played entirely in the terminal. It’s made in C++ and levels can easily be made with notepad (instructions in the repo). Every level has a predetermined size which must be respected. Every character has its own effects and can be used to make walls, fire, water, and a portal to the next level.
+
+
+### Spell Checker -> [repo](https://github.com/JessevanVuuren/SpellChecker)
+Spell checker is a simple program made in python and uses tkinter as graphical library (UI). This program helps you spell words when typing in a video game, it filters words based on the first characters typed. It’s fast and uses 300.000 of the most used English words.
 
 
 <br>
