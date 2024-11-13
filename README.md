@@ -38,6 +38,11 @@ Buddy bot is an app I’ve created that helps you remember birthdays of your fri
 
 All the data is stored on your phone, so you won’t need an internet connection and you don’t have to worry about your data getting lost or stolen.
 
+### 3D Perlin Noise Map with Marching Cubes Algorithm -> [repo](https://github.com/JessevanVuuren/MarchingCubes)
+This project demonstrates the rendering of a 3D Perlin noise map using the Marching Cubes algorithm. The rendering is done using the Raylib library in C. The project generates a 3D terrain based on Perlin noise. The Marching Cubes algorithm is used to triangulate the generated noise data, allowing the 3D terrain to be rendered efficiently.
+
+### MNIST digit recognising CNN -> [repo](https://github.com/JessevanVuuren/MNIST_AI)
+This repository contains a python application that enables you to draw a digit between 0 and 9, the application will then proceed to predict the written digit using a convolutional neural network.
 
 ### Termial Jump -> [repo](https://github.com/JessevanVuuren/TerminalJump)
 Terminal Jump is a Mario inspired game played entirely in the terminal. It’s made in C++ and levels can easily be made with notepad (instructions in the repo). Every level has a predetermined size which must be respected. Every character has its own effects and can be used to make walls, fire, water, and a portal to the next level.
