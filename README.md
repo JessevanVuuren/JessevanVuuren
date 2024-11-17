@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **JavaScript, PHP**
+- 🌱 I’m currently learning **JavaScript, C/C++**
 - 🖥️ Interested in back-end development
 - 🎓 Currently studying Informatica in Leiden
 - 🌷 Living in the Netherlands
